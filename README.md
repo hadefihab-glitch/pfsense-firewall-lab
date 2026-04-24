@@ -23,24 +23,31 @@ This project demonstrates the implementation of a **pfSense firewall** in a virt
 * Web Interface Access (WebConfigurator)
 
 ---
-
 ## 📸 Screenshots
-Installation
 
-Login Interface
+### 🔹 Installation
+![Installation](install.png)
 
-Setup Wizard
+### 🔹 Login Interface
+![Login](login.png)
 
-Firewall Rules (LAN)
+### 🔹 Setup Wizard
+![Setup](setup.png)
 
-NAT Configuration
+### 🔹 Firewall Rules
+![Rules](rules.png)
 
-DHCP Configuration
+### 🔹 NAT Configuration
+![NAT](nat.png)
 
-Connectivity Test (Ping)
+### 🔹 DHCP Configuration
+![DHCP](dhcp.png)
 
-VirtualBox Network Configuration
+### 🔹 Ping Test
+![Ping](ping.png)
 
+### 🔹 Network Configuration
+![Network](network.png)
 ---
 
 ## 🧠 Skills Gained
