@@ -26,28 +26,28 @@ This project demonstrates the implementation of a **pfSense firewall** in a virt
 ## 📸 Screenshots
 
 ### 🔹 Installation
-![Installation](install.png)
+![Installation](screenshots/install.png)
 
 ### 🔹 Login Interface
-![Login](login.png)
+![Login](screenshots/login.png)
 
 ### 🔹 Setup Wizard
-![Setup](setup.png)
+![Setup](screenshots/setup.png)
 
 ### 🔹 Firewall Rules
-![Rules](rules.png)
+![Rules](screenshots/rules.png)
 
 ### 🔹 NAT Configuration
-![NAT](nat.png)
+![NAT](screenshots/nat.png)
 
 ### 🔹 DHCP Configuration
-![DHCP](dhcp.png)
+![DHCP](screenshots/dhcp.png)
 
 ### 🔹 Ping Test
-![Ping](ping.png)
+![Ping](screenshots/ping.png)
 
 ### 🔹 Network Configuration
-![Network](network.png)
+![Network](screenshots/network.png)
 ---
 
 ## 🧠 Skills Gained
